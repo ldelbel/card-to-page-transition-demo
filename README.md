@@ -4,7 +4,7 @@
 
 # CARD-TO-PAGE-TRANSITION-DEMO
 
-<em></em>
+
 
 <img src="https://img.shields.io/github/license/ldelbel/card-to-page-transition-demo?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 <img src="https://img.shields.io/github/last-commit/ldelbel/card-to-page-transition-demo?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -15,6 +15,8 @@
 <br>
 
 [Live Demo (for Chris)](https://card-to-page-transition-demo.vercel.app/)
+
+<em>Hey Chris, I found out that Framer Motion has a lot covered about that animation we were talking about, from a card to a page on click. Check if this is somewhat close to what we need.</em>
 
 </div>
 <br>
@@ -217,17 +219,9 @@ Build card-to-page-transition-demo from the source and intsall dependencies:
 
 3. **Install the dependencies:**
 
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
-	<!-- [![npm][npm-shield]][npm-link] -->
-	<!-- REFERENCE LINKS -->
-	<!-- [npm-shield]: https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white -->
-	<!-- [npm-link]: https://www.npmjs.com/ -->
-
-	**Using [npm](https://www.npmjs.com/):**
-
-	```sh
-	❯ npm install
-	```
+```sh
+	npm install
+```
 
 ### Usage
 
