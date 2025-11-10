@@ -35,3 +35,11 @@
     }
   }
 }
+
+
+          $ readmeai --repository https://github.com/ldelbel/card-to-page-transition-demo \
+           --align LEFT \
+           --badge-style FLAT-SQUARE \
+           --logo CUSTOM
+          
+        
